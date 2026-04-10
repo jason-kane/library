@@ -1,0 +1,14 @@
+{
+    "default_style": "americana",
+    "aspect_ratio": "portrait",
+    "BIBLE_BREAKDOWN": false,
+    "HAS_NUMBERED_CHAPTERS": false,
+    "HAS_ROMAN_NUMERAL_CHAPTERS": false,
+    "HAS_ALLCAPS_BREAKS": true,
+    "HAS_UNPUNCTUATED_SINGLE_LINE": false,
+    "author": "Robert Frost",
+    "title": "Selected Poems",
+    "chapter_title": "Chapter 20",
+    "dialog": "dialog",
+    "git_url": "git@github.com:jason-kane/library.git"
+}
