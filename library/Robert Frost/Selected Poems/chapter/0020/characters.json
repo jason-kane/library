@@ -1,0 +1,39 @@
+{
+  "Narrator": {
+    "gender": "male",
+    "age": "old",
+    "accent": "british",
+    "accent_strength": 1.25,
+    "file": "NARRATOR.wav",
+    "audio_appearances": 11,
+    "visual_appearances": 0,
+    "tag": "Narrator",
+    "name": "Narrator",
+    "voice_gender": "male",
+    "voice_language": "english",
+    "voice_accent": "british",
+    "is_global": true,
+    "voices": [
+      {
+        "id": "bm_daniel",
+        "name": "Daniel",
+        "strength": 79
+      },
+      {
+        "id": "bm_george",
+        "name": "George",
+        "strength": 15
+      },
+      {
+        "id": "bm_fable",
+        "name": "Fable",
+        "strength": 86
+      },
+      {
+        "id": "bm_lewis",
+        "name": "Lewis",
+        "strength": 52
+      }
+    ]
+  }
+}

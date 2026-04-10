@@ -1,0 +1,321 @@
+{
+    "words": [
+        {
+            "start_frame": 0,
+            "frames": 42,
+            "end_frame": 41,
+            "text": "Selected Poems",
+            "paragraph_tags": {
+                "has-text": false,
+                "spoken-only": true
+            },
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000000",
+            "paragraph_index": "0",
+            "fullscreen": true,
+            "index": 0,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_0_Selected_Poems_4bb70af0_53ea.wav"
+        },
+        {
+            "start_frame": 42,
+            "frames": 37,
+            "end_frame": 78,
+            "text": "By Robert Frost",
+            "paragraph_tags": {
+                "has-text": false,
+                "spoken-only": true
+            },
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000001",
+            "paragraph_index": "1",
+            "fullscreen": true,
+            "index": 1,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_1_By_Robert_Frost_2a0c1e42_8eb4.wav"
+        },
+        {
+            "start_frame": 79,
+            "frames": 30,
+            "end_frame": 108,
+            "text": "The Pasture",
+            "paragraph_tags": {
+                "has-text": true,
+                "spoken-only": false
+            },
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000002",
+            "paragraph_index": "2",
+            "fullscreen": false,
+            "index": 2,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_2_The_Pasture_76b6b8fe_0afd.wav"
+        },
+        {
+            "start_frame": 109,
+            "frames": 64,
+            "end_frame": 172,
+            "text": "I'm going out to clean the pasture spring;",
+            "paragraph_tags": {},
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000003",
+            "paragraph_index": "3",
+            "fullscreen": false,
+            "index": 3,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_3_I_m_going_out_to_clean_th_32ab78a1_c89e.wav"
+        },
+        {
+            "start_frame": 173,
+            "frames": 62,
+            "end_frame": 234,
+            "text": "I'll only stop to rake the leaves away",
+            "paragraph_tags": {},
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000003",
+            "paragraph_index": "3",
+            "fullscreen": false,
+            "index": 4,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_4_I_ll_only_stop_to_rake_th_a36b89d0_bdbc.wav"
+        },
+        {
+            "start_frame": 235,
+            "frames": 63,
+            "end_frame": 297,
+            "text": "(And wait to watch the water clear, I may):",
+            "paragraph_tags": {},
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000003",
+            "paragraph_index": "3",
+            "fullscreen": false,
+            "index": 5,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_5__And_wait_to_watch_the_wa_b74e15d5_6401.wav"
+        },
+        {
+            "start_frame": 298,
+            "frames": 61,
+            "end_frame": 358,
+            "text": "I shan't be gone long.---You come too.",
+            "paragraph_tags": {},
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000003",
+            "paragraph_index": "3",
+            "fullscreen": false,
+            "index": 6,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_6_I_shan_t_be_gone_long___Y_a87ec629_75e5.wav"
+        },
+        {
+            "start_frame": 359,
+            "frames": 61,
+            "end_frame": 419,
+            "text": "I'm going out to fetch the little calf",
+            "paragraph_tags": {},
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000004",
+            "paragraph_index": "4",
+            "fullscreen": false,
+            "index": 7,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_7_I_m_going_out_to_fetch_th_2d6371e2_4359.wav"
+        },
+        {
+            "start_frame": 420,
+            "frames": 69,
+            "end_frame": 488,
+            "text": "That's standing by the mother. It's so young,",
+            "paragraph_tags": {},
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000004",
+            "paragraph_index": "4",
+            "fullscreen": false,
+            "index": 8,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_8_That_s_standing_by_the_mo_1ad0d9a8_c390.wav"
+        },
+        {
+            "start_frame": 489,
+            "frames": 61,
+            "end_frame": 549,
+            "text": "It totters when she licks it with her tongue.",
+            "paragraph_tags": {},
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000004",
+            "paragraph_index": "4",
+            "fullscreen": false,
+            "index": 9,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_9_It_totters_when_she_licks_61577edb_baef.wav"
+        },
+        {
+            "start_frame": 550,
+            "frames": 61,
+            "end_frame": 610,
+            "text": "I shan't be gone long.---You come too.",
+            "paragraph_tags": {},
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000004",
+            "paragraph_index": "4",
+            "fullscreen": false,
+            "index": 10,
+            "id": null,
+            "speaker": "narrator",
+            "src": "ph_10_I_shan_t_be_gone_long___Y_a87ec629_2ffc.wav"
+        }
+    ],
+    "images": [
+        {
+            "index": 0,
+            "start_frame": 0,
+            "frames": 42,
+            "end_frame": 41,
+            "image": "img_0_Americana_mode__Norman_Ro_4e5d4f2_b590_adjop.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000000",
+            "clip_prompt": null,
+            "prompt": "Americana mode, Norman Rockwell inspired: The front cover of a detailed carved and painted cover of a masterfully crafted leather-bound handmade special edition of \"Selected Poems\" by \"Robert Frost\"., \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": true,
+            "tags": {
+                "has-text": false,
+                "spoken-only": true
+            },
+            "mode": "scale"
+        },
+        {
+            "index": 1,
+            "start_frame": 42,
+            "frames": 37,
+            "end_frame": 78,
+            "image": "img_1_Americana_mode__Norman_Ro_a025aba3_8837_adjop.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000001",
+            "clip_prompt": null,
+            "prompt": "Americana mode, Norman Rockwell inspired: Renown author Robert Frost at a desk writing the famous story Selected Poems, \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": true,
+            "tags": {
+                "has-text": false,
+                "spoken-only": true
+            },
+            "mode": "scale"
+        },
+        {
+            "index": 2,
+            "start_frame": 79,
+            "frames": 30,
+            "end_frame": 108,
+            "image": "img_2_Americana_mode__Norman_Ro_44109111_c90e.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000002",
+            "clip_prompt": "THE PASTURE,book page,classic,elegant,ornate,letters",
+            "prompt": "Americana mode, Norman Rockwell inspired: A classic and elegant book page with the text \"THE PASTURE\" presented boldly in large ornate letters, \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": false,
+            "tags": {
+                "has-text": true,
+                "spoken-only": false
+            },
+            "mode": "scale"
+        },
+        {
+            "index": 3,
+            "start_frame": 109,
+            "frames": 64,
+            "end_frame": 172,
+            "image": "img_3_Americana_mode__Norman_Ro_20db3455_157e.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000003",
+            "clip_prompt": "",
+            "prompt": "Americana mode, Norman Rockwell inspired: A whimsical scene unfolds in a sun-dappled meadow where a young girl, with a basket of flowers, a rake and a curious smile, steps toward a sparkling spring nestled in the heart of the pasture. The spring glistens like a hidden gem, its waters shimmering with a magical glow. Around it, golden leaves drift lazily, as though caught in a gentle breeze that whispers secrets of the forest. A small, fluffy calf, with wide, innocent eyes, stands beside its mother, who gently licks its face, causing it to wobble with delight. The girl pauses, her hand resting on her hip, as she watches the water clear, revealing reflections of the sky and clouds. A soft, ethereal light surrounds the scene, casting a dreamlike glow over the landscape. The girl turns to the viewer, a warm smile on her face., \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": false,
+            "tags": {},
+            "mode": "scale"
+        },
+        {
+            "index": 4,
+            "start_frame": 173,
+            "frames": 62,
+            "end_frame": 234,
+            "image": "img_4_Americana_mode__Norman_Ro_f5d9b7bb_a2c4.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000003",
+            "clip_prompt": "",
+            "prompt": "Americana mode, Norman Rockwell inspired: A whimsical scene unfolds in a sun-dappled pasture where a young girl, with a basket slung over her shoulder and a small rake in hand, pauses mid-step as if caught between two worlds. The air is thick with magic, and the ground glows faintly with the soft light of a hidden spring. Around her, the leaves of the trees shimmer like stained glass, swirling in slow, dreamlike spirals as if carried by an unseen breeze. A gentle mist rises from the spring, The girl\u2019s eyes are wide with wonder, her heart full of purpose, as she watches the spring clear with each flick of her rake. Nearby, a young calf totters on its wobbly legs, nuzzled by its mother, whose eyes glow with a soft, golden light. The scene is bathed in a warm, ethereal glow, as if the very earth is alive with enchantment, and the girl\u2019s promise to return is a quiet spell that holds the magic in place., \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": false,
+            "tags": {},
+            "mode": "scale"
+        },
+        {
+            "index": 5,
+            "start_frame": 235,
+            "frames": 63,
+            "end_frame": 297,
+            "image": "img_5_Americana_mode__Norman_Ro_a2976889_bab4.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000003",
+            "clip_prompt": "",
+            "prompt": "Americana mode, Norman Rockwell inspired: A whimsical, enchanted scene unfolds in a sun-dappled meadow where a gentle spring glistens with shimmering, iridescent water. The air is thick with the scent of wildflowers. A young girl, with a basket of tools and a curious smile, kneels by the spring, her hands dipped in the water as it slowly clears.  A small calf, with a fluffy coat and wide, trusting eyes, stands beside its mother, who gently licks its forehead, causing it to giggle and totter playfully. The girl looks up, her gaze filled with wonder.  the sky above is a swirling canvas of pastel hues, as if the heavens themselves are watching with delight., \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": false,
+            "tags": {},
+            "mode": "scale"
+        },
+        {
+            "index": 6,
+            "start_frame": 298,
+            "frames": 61,
+            "end_frame": 358,
+            "image": "img_6_Americana_mode__Norman_Ro_26b51d0e_61cd.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000003",
+            "clip_prompt": "",
+            "prompt": "Americana mode, Norman Rockwell inspired: A whimsical pastoral scene bathed in golden light, where a young girl in a flowing, floral dress stands beside a gentle stream, her hand outstretched as if beckoning. The spring glistens with shimmering droplets, and the water sparkles like tiny stars. Around her, the meadow is alive with magical details\u2014flowers bloom in impossible hues, their petals glowing softly, and butterflies with iridescent wings flutter about in slow, dreamlike circles. In the distance, a young calf stands beside its mother, its tiny legs wobbling as the mother licks it with a gentle, glowing tongue. The calf\u2019s eyes are wide with wonder, reflecting the magic of the moment. The girl turns to the viewer, her expression warm and inviting, as if saying, \"Come too.\" The sky above is a soft, ethereal blue, dotted with floating lanterns that drift like fireflies, casting a gentle, otherworldly glow over the scene., \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": false,
+            "tags": {},
+            "mode": "scale"
+        },
+        {
+            "index": 7,
+            "start_frame": 359,
+            "frames": 61,
+            "end_frame": 419,
+            "image": "img_7_Americana_mode__Norman_Ro_817941a2_0548.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000004",
+            "clip_prompt": "",
+            "prompt": "Americana mode, Norman Rockwell inspired: A whimsical scene unfolds under a sky painted in soft, golden hues, where a young girl in a flowing, floral dress steps out into a magical meadow. She carries a small, enchanted bucket and a woven basket, her eyes sparkling with wonder as she heads toward a sparkling spring nestled among tall, whispering grasses. The spring glows with a gentle, ethereal light, and tiny, glowing fish dart through the water, while butterflies with shimmering wings hover nearby.   As she approaches, a young calf, no larger than a loaf of bread, wobbles on its tiny legs beside its mother, a gentle cow with a soft, glowing halo around her. The calf\u2019s eyes are wide with curiosity, and its tiny tongue flicks out in delight as the mother licks it. The girl reaches out, her hand glowing with a warm, golden light, as if she is summoning magic to help the calf drink.   In the background, the sun dips low, casting long, dreamy shadows across the meadow, and a gentle breeze carries the scent of wildflowers and magic. The girl turns to the viewer, smiling with a sense of adventure and wonder, \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": false,
+            "tags": {},
+            "mode": "scale"
+        },
+        {
+            "index": 8,
+            "start_frame": 420,
+            "frames": 69,
+            "end_frame": 488,
+            "image": "img_8_Americana_mode__Norman_Ro_8fae975d_caa7.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000004",
+            "clip_prompt": "",
+            "prompt": "Americana mode, Norman Rockwell inspired: A whimsical, dreamlike scene unfolds in a sun-dappled meadow where a young calf, no larger than a loaf of bread, stands trembling beside its mother, a gentle cow with a soft, glowing coat that shimmers like moonlight on water. The calf totters unsteadily as the mother licks it with a tender, almost magical touch, sending tiny sparks of golden light dancing in the air. A young girl, with wide, curious eyes and a basket of flowers in her hand, watches from the edge of the pasture, her presence as light as a breeze. She is beckoning to a companion, her voice a whisper of promise, as she prepares to join the journey. The sky above is a soft, pastel blue, dotted with floating lanterns that glow like fireflies, and the spring nearby bubbles with clear, sparkling water, reflecting the scene in a mirror of wonder. The atmosphere is filled with a sense of gentle magic, as if the world itself is holding its breath in awe of the tender moment., \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": false,
+            "tags": {},
+            "mode": "scale"
+        },
+        {
+            "index": 9,
+            "start_frame": 489,
+            "frames": 61,
+            "end_frame": 549,
+            "image": "img_9_Americana_mode__Norman_Ro_d17f3875_64cd.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000004",
+            "clip_prompt": "",
+            "prompt": "Americana mode, Norman Rockwell inspired: A whimsical, ethereal scene unfolds beneath a sky painted in soft pastel hues, where a young calf, no larger than a loaf of bread, stands trembling on its wobbly legs beside its mother. The calf\u2019s tiny body is dusted with golden light, as if kissed by the sun, and its eyes glow with innocent wonder. The mother cow, a gentle giant with a gentle gaze, leans down to gently lick the calf\u2019s forehead, her tongue curling like a ribbon of moonlight. The calf, in response, totters on its unsteady legs, as if caught between the gravity of the world and the magic of its mother\u2019s touch.   Around them, the spring glistens with crystalline clarity, its waters shimmering like liquid glass, and the leaves that have fallen around the clearing are caught in a gentle breeze, swirling in slow, dreamlike spirals. A path of soft, glowing moss leads away from the scene, inviting the viewer to follow, while the air hums with the quiet magic of a world where nature and wonder are one., \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": false,
+            "tags": {},
+            "mode": "scale"
+        },
+        {
+            "index": 10,
+            "start_frame": 550,
+            "frames": 61,
+            "end_frame": 610,
+            "image": "img_10_Americana_mode__Norman_Ro_e0fa0500_69f0.png",
+            "paragraph_dir": "Robert Frost/Selected Poems/chapter/0020/paragraphs/000004",
+            "clip_prompt": "",
+            "prompt": "Americana mode, Norman Rockwell inspired: A whimsical scene unfolds in a sun-dappled meadow where a young girl, with a curious glint in her eye and a basket slung over her shoulder, stands beside a shimmering spring. The water sparkles like liquid starlight, and around it, golden leaves swirl in a gentle breeze, as if dancing to an unseen melody. A small calf, with velvety brown fur and wide, innocent eyes, totters beside its mother, who gently licks its face, causing it to giggle and wobble in delight. The girl turns to the viewer, her expression a mix of adventure and invitation, as if saying, \"I shan't be gone long\u2014You come too.\" In the background, a soft, ethereal glow surrounds the scene, as though the meadow itself is alive with magic, and the air hums with the promise of wonder., \u00acA painted nostalgia style that captures the essence of American culture, history, and landscapes. The style often features iconic symbols, rural scenes, and a sense of nostalgia.",
+            "fullscreen": false,
+            "tags": {},
+            "mode": "scale"
+        }
+    ]
+}
